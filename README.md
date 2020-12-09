@@ -6,6 +6,7 @@ Forked from https://github.com/clhuang/heroku-buildpack-webp-binaries.
 
 - Reviewed the buildpack and validated the libwebp URL.
   - (https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html linked from https://developers.google.com/speed/webp/docs/precompiled)
+- Updated libwebp to version 1.1.0
 
 ## Description
 
